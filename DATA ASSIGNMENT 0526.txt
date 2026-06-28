@@ -1,0 +1,7 @@
+CR001, EcoFreight Express, Electric Van, SHP901, Perishables, 5, 2026-06-02, 12, 450.00
+CR001, EcoFreight Express, Electric Van, SHP902, Standard Electronics, 3, 2026-06-02, 24, 120.50
+CR002, SkyDrone Logistics, Drone Delivery, SHP903, Medical Supplies, 1, 2026-06-03, 2, 50.00
+CR003, HeavyHaul Trains, Freight Train, SHP904, Bulk Apparel, 4, 2026-06-04, 72, 890.00
+CR003, HeavyHaul Trains, Freight Train, SHP905, Raw Materials, 4, 2026-06-04, 72, 950.00
+CR003, HeavyHaul Trains, Freight Train, SHP906, Machinery, 3, 2026-06-04, 72, 1200.00
+CR003, HeavyHaul Trains, Freight Train, SHP907, Furniture, 4, 2026-06-05, 48, 600.00

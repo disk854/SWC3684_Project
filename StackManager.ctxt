@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StackManager
+comment0.text=\r\n\ Handles\ the\ Manifest\ Settlement\ (Phase\ 3).\r\n\ Processes\ batches\ of\ carriers\ across\ lanes\ and\ pushes\ them\ to\ a\ dispatch\ stack.\r\n
+comment1.params=
+comment1.target=StackManager()
+comment2.params=q1\ q2\ q3
+comment2.target=void\ processSettlement(java.util.Queue,\ java.util.Queue,\ java.util.Queue)
+comment2.text=\r\n\ Processes\ fixed\ batches\ of\ 5\ carriers\ from\ each\ queue\ until\ all\ are\ empty.\r\n
+comment3.params=
+comment3.target=void\ printTerminalDepartureLog()
+comment3.text=\r\n\ Pops\ carriers\ from\ the\ stack\ and\ displays\ the\ terminal\ departure\ log.\r\n
+numComments=4
